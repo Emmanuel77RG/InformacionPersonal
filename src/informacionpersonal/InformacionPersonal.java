@@ -26,7 +26,7 @@ public class InformacionPersonal {
     public void Informacion(){        
         System.out.println("El nombre completo de la persona es: " + nombre +" "+ apellido_paterno +" "+ apellido_materno );
         System.out.println("Su numero de cuenta es: " + centa);
-        System.out.println("El semestre que cursa es: SEGUNDO SEMESTRE" + semestre_en_curso);
+        System.out.println("El semestre que cursa es: " + semestre_en_curso);
         System.out.println("Materias que cursa:");
         System.out.println(Primera_materia+" "+Primer_horario);
         System.out.println(Segunda_materia+" "+Segundo_horario);
